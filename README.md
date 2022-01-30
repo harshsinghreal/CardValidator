@@ -10,3 +10,8 @@ You can check the live site from here https://harshsinghreal.github.io/CardValid
 
 # SCREENSHOT
 ![atm validator and generator](https://user-images.githubusercontent.com/93440683/151710088-b7ce3b97-e4da-4682-a0d9-f13282515b7c.png)
+
+
+![atm 2](https://user-images.githubusercontent.com/93440683/151710239-fdd2bf73-b32e-4df9-8239-e8a2b4e78b68.png)
+
+![atm 3](https://user-images.githubusercontent.com/93440683/151710399-2ad1a5fc-5da0-4732-a9ea-a7e5a77a6ec1.png)
