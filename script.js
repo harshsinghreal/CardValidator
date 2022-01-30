@@ -215,6 +215,27 @@ Some thing that i use is luhn check steps below ---
 5 divide by 10
 6 if % is 0 return "true" or "valid"
 
+You can check the algorithm from this image ---> https://codecademy-content.s3.amazonaws.com/PRO/independent-practice-projects/credit-card-checker/diagrams/cc+validator+diagram+1.svg
+Or you may refer this article   ---->   https://www.freeformatter.com/credit-card-number-generator-validator.html#howToValidate
+Or you can check the algorithm below
+1. iterate from right to left
+(make nested loop)
+2. every other number multiply by two
+3. if number is > 9, (-9)
+4. + all the numbers
+5 divide by 10
+6 if % is 0 return "true" or "valid"
+input.addEventListener("keyup", function(event) {
+     if (event.keyCode === 13) {
+     event.preventDefault();  
+    authenticate.click();
+  }        
+});
 
+
+Thanks and have a great day
+
+      regards
+""" Harsh Singh """
 
 */
