@@ -9,4 +9,4 @@ You can check the live site from here https://harshsinghreal.github.io/CardValid
 
 
 # SCREENSHOT
-![Uploading atm validator and generator.png…]()
+![atm validator and generator](https://user-images.githubusercontent.com/93440683/151710088-b7ce3b97-e4da-4682-a0d9-f13282515b7c.png)
